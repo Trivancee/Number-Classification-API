@@ -145,7 +145,7 @@ app.add_middleware(
 
 ### **Fun Fact**
 
-The Numbers API is used to fetch a fun fact related to the number, enriching the response with contextual and historical insights.
+The Numbers API is used to fetch a fun fact related to the number, enriching the response with contextual & historical insights.
 
 ---
 
